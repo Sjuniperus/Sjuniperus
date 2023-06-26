@@ -4,10 +4,11 @@
 <h3 align="center">Una recién llegada al mundo de Devops</h3>
 
 - 🌱 Actualmente estoy trabajando en **ampliar mis conocimientos en HTML5, CSS3, JS, REACT, PHP and LARAVEL**
+<h1>Contactame en:</h1>
+<a href="sabi.perezrimedio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
 
-- 📫 Cómo contactarme **sabi.perezrimedio@gmail.com**
 
-- 📄 Mi experiencia laboral [https://drive.google.com/file/d/1hN7-CbKC_c-z5Y_oRn5g68uWsNGUmdnF/view?usp=sharing](https://drive.google.com/file/d/1hN7-CbKC_c-z5Y_oRn5g68uWsNGUmdnF/view?usp=sharing)
+- 📄 Mi experiencia laboral <a href="https://drive.google.com/file/d/1hN7-CbKC_c-z5Y_oRn5g68uWsNGUmdnF/view?usp=sharing">
 
 - ⚡ Fun fact **curiosidad innata**
 
