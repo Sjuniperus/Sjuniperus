@@ -1,4 +1,4 @@
-<img src="./asset/portada_github.gif">
+<img src="./asset/github_header.gif">
 
 <h1 align="center">Hola 👋, soy Sabina Pérez</h1>
 <h3 align="center">Una recién llegada al mundo de Devops</h3>
