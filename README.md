@@ -19,13 +19,15 @@
 <br></br>
 
 <h2 align="center"> Github Statistics 📈 </h2>
+
   
   <div align="center"> 
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sjuniperus&show_icons=true&locale=es&layout=compact" alt="sjuniperus" /></p>
      <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sjuniperus&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sjuniperus&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" alt="sjuniperus"/>
     </a>
     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sjuniperus&theme=react&line_height=40&hide=css"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjuniperus&show_icons=true&theme=react&line_height=40&locale=es&layout=compact&hide=css" alt="sjuniperus"/>
     </a>
 </div
 <br></br>
