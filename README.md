@@ -14,22 +14,19 @@
 <p align="center">
 <a href="sabi.perezrimedio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
 <a href="https://www.linkedin.com/in/sabi-p-rimedio" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a> 
+  <a href="http://discord.com/users/Sabina#0385" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Sabina#0385" height="40" width="30" style="background-color:#9ACFF6; filter: brightness(0.8);" />
+</a>&nbsp;
 </p>
 
 <br></br>
 
-<h2 align="center"> Github Statistics 📈 </h2>
+---
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
+![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=sjuniperus&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjuniperus&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sjuniperus&theme=dark)](https://git.io/streak-stats)
 
-  
-  <div align="center"> 
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sjuniperus&show_icons=true&locale=es&layout=compact" alt="sjuniperus" /></p>
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sjuniperus&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" alt="sjuniperus"/>
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjuniperus&show_icons=true&theme=react&line_height=40&locale=es&layout=compact&hide=css" alt="sjuniperus"/>
-    </a>
-</div
+---
 <br></br>
 
 <h2 align="center"> Stack </h2>
