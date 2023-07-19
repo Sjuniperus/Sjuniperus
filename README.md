@@ -1,6 +1,5 @@
 <img src="./asset/portada_github.gif">
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)]
 
 <h1 align="center">Hola a todxs! Soy Sabina</h1>
 <h3 align="center">Entusiasmada con el mundo de desarrollo web y las tecnologías sostenibles</h3>
