@@ -2,9 +2,9 @@
 
 
 <h1 align="center">Hola a todxs! Soy Sabina</h1>
-<h3 align="center">Entusiasmada con el mundo de desarrollo web y las tecnologías sostenibles</h3>
+<h3 align="center">Entusiasmada con el mundo del DW, ciberseguridad  y las tecnologías sostenibles</h3>
 
-- 🌱 Manejo lenguajes **HTML5, CSS3, JS, REACT, PHP and LARAVEL** .
+- 🌱 Manejo lenguajes **HTML5, CSS3, JS, REACT, NODE JS, PHP and LARAVEL** .
 - ⚡ Fun fact **curiosidad innata**.
 
 <br></br>
