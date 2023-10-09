@@ -3,9 +3,10 @@
 
 <h1 align="center">Hola a todxs! Soy Sabina</h1>
 <h3 align="center">Entusiasmada con el mundo del DW, ciberseguridad  y las tecnologías sostenibles</h3>
-
+<p align="center>
 - 🌱 Manejo lenguajes **HTML5, CSS3, JS, REACT, NODE JS, PHP and LARAVEL** .
 - ⚡ Fun fact **curiosidad innata**.
+</p>
 
 <br></br>
   
