@@ -27,7 +27,6 @@
 <p>
 <a href="sabi.perezrimedio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
 <a href="https://www.linkedin.com/in/sabi-p-rimedio" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a> 
-  <br></br>
   <a href="http://discord.com/users/Sabina#0385" target="blank"><img align="center" src="./asset/discord-icon.svg" alt="Sabina#0385" height="40" width="30" style="background-color:#9ACFF6; filter: brightness(0.8);" />
 </a>&nbsp;
 </p>
