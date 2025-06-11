@@ -1,9 +1,14 @@
 <img src="./asset/github-header-sjuniperus.png">
 
 
-<h1 align="left">Hola a todxs! Soy Sabina</h1>
-<h3 align="center">Entusiasmada con el mundo del DW, ciberseguridad  y las tecnologías sostenibles</h3>
-<p align="center"> 
+<h2 align="left">👋 ¡Hola! | Hello there!</h2>
+<h3 align="left">🎯 Soy un profesional IT con formación en desarrollo full stack (PHP, JavaScript), ciberseguridad web y control de calidad de software.</h3>  
+<h3 align="left">🎯 I'm an IT professional with training in full stack development (PHP, JavaScript), web cybersecurity, and software quality assurance.
+</h3>
+<p align="left"> 
+  🔍 Busco oportunidades como QA Tester, Desarrollador Full Stack PHP/Java o Soporte Técnico.  
+  🔍 I'm open to roles such as QA Tester, Full Stack Developer (PHP/Java), or Technical Support.
+
   - 🌱 Manejo lenguajes **HTML5, CSS3, JS, REACT, NODE JS, PHP and LARAVEL**. 
   <br></br>
   - ⚡ Fun fact **curiosidad innata**.
