@@ -4,7 +4,8 @@
 <h2 align="left">👋 ¡Hola! | Hello there!</h2>
 <p align="left">
   🎯 Soy un profesional IT con formación en desarrollo full stack (PHP, JavaScript), ciberseguridad web y control de calidad de software. 
-  <br></br>
+</p>
+<p>
   🎯 I'm an IT professional with training in full stack development (PHP, JavaScript), web cybersecurity, and software quality assurance.
 </p>
 <p align="left"> 
