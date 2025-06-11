@@ -7,7 +7,7 @@
   <br></br>
   🔍 Busco oportunidades como QA Tester, Desarrollador Full Stack PHP/Java o Soporte Técnico.
 </p>
-<h4>🧰 Stack Técnico | Tech Stack</h4>
+<h4>🧰 Stack Técnico</h4>
 
 - **Lenguajes**: PHP · JavaScript · Java · SQL · Python (basic)
 - **Testing / QA**: Postman · Git · Learning Cypress and Selenium
