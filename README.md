@@ -3,17 +3,17 @@
 
 <h2 align="left">👋 ¡Hola!</h2>
 <p>
-  🎯 Soy un profesional IT con formación en desarrollo full stack (PHP, JavaScript), ciberseguridad web y control de calidad de software. 
+  🎯 Soy un profesional IT con formación en Desarrollo Full Stack PHP, Ciberseguridad Web y control de calidad de software. 
   <br></br>
   🔍 Busco oportunidades como QA Tester, Desarrollador Full Stack PHP/Java o Soporte Técnico.
 </p>
 <h4>🧰 Stack Técnico | Tech Stack</h4>
 
-- **Lenguajes / Languages**: PHP · JavaScript · Java · SQL · Python (basic)
+- **Lenguajes**: PHP · JavaScript · Java · SQL · Python (basic)
 - **Testing / QA**: Postman · Git · Learning Cypress and Selenium
-- **Ciberseguridad / Cybersecurity**: OWASP Top 10 · Burp Suite · Nmap · Wireshark · Splunk · tcpdump · Kali Linux
-- **Control de versiones / Version Control**: Git · GitHub
-- **Sistemas y herramientas / Systems & Tools**: Linux · Windows · Notion · Trello · Figma · Draw.io
+- **Ciberseguridad**: OWASP Top 10 · Burp Suite · Nmap · Wireshark · Splunk · tcpdump · Kali Linux
+- **Control de versiones**: Git · GitHub
+- **Entornos y herramientas**: Linux · macOS · Windows · Docker · Notion · Trello · Figma · Draw.io · Visual Studio Code · NetBeans
 </p>
 
 <h4>🚀 Actualmente </h4>
@@ -35,7 +35,7 @@
 
 <h2 align="left">👋 Hello there!</h2>
 <p>
-  🎯 I'm an IT professional with training in full stack development (PHP, JavaScript), web cybersecurity, and software quality assurance.
+  🎯 I'm an IT professional with training in Full Stack Development PHP, Web Cybersecurity, and software quality assurance.
   <br></br>
   🔍 I'm open to roles such as QA Tester, Full Stack Developer (PHP/Java), or Technical Support.
 </p>
@@ -47,7 +47,7 @@
 - **Testing / QA**: Postman · Git · Learning Cypress and Selenium
 - **Cybersecurity**: OWASP Top 10 · Burp Suite · Nmap · Wireshark · Splunk · tcpdump · Kali Linux
 - **CVersion Control**: Git · GitHub
-- **Systems & Tools**: Linux · Windows · Notion · Trello · Figma · Draw.io
+- **Systems & Tools**: Linux · macOS · Windows · Docker · Notion · Trello · Figma · Draw.io· Visual Studio Code · NetBeans
 </p>
 
 <h4>🚀 Actualmente | Currently</h4>
