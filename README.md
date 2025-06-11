@@ -8,8 +8,9 @@
   🔍 Busco oportunidades como QA Tester, Desarrollador Full Stack PHP/Java o Soporte Técnico.
 </p>
 <h4>🧰 Stack Técnico | Tech Stack</h4>
-<p>
-- **Lenguajes / Languages**: PHP · JavaScript · Java · SQL · Python (basic)
+<ul>
+  <li>- **Lenguajes / Languages: PHP · JavaScript · Java · SQL · Python (basic)</li>
+
 - **Testing / QA**: Postman · Git · Learning Cypress and Selenium
 - **Ciberseguridad / Cybersecurity**: OWASP Top 10 · Burp Suite · Nmap · Wireshark · Splunk · tcpdump · Kali Linux
 - **Control de versiones / Version Control**: Git · GitHub
