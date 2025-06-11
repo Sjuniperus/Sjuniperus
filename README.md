@@ -8,19 +8,13 @@
   🔍 Busco oportunidades como QA Tester, Desarrollador Full Stack PHP/Java o Soporte Técnico.
 </p>
 <h4>🧰 Stack Técnico | Tech Stack</h4>
-<ul>
-  <li>- **Lenguajes / Languages: PHP · JavaScript · Java · SQL · Python (basic)</li>
 
-- **Testing / QA**: Postman · Git · Learning Cypress and Selenium
-- **Ciberseguridad / Cybersecurity**: OWASP Top 10 · Burp Suite · Nmap · Wireshark · Splunk · tcpdump · Kali Linux
-- **Control de versiones / Version Control**: Git · GitHub
-- **Sistemas y herramientas / Systems & Tools**: Linux · Windows · Notion · Trello · Figma · Draw.io
-</p>
 - **Lenguajes / Languages**: PHP · JavaScript · Java · SQL · Python (basic)
 - **Testing / QA**: Postman · Git · Learning Cypress and Selenium
 - **Ciberseguridad / Cybersecurity**: OWASP Top 10 · Burp Suite · Nmap · Wireshark · Splunk · tcpdump · Kali Linux
 - **Control de versiones / Version Control**: Git · GitHub
 - **Sistemas y herramientas / Systems & Tools**: Linux · Windows · Notion · Trello · Figma · Draw.io
+</p>
 
 <h2 align="left">👋 Hello there!</h2>
 <p>
@@ -28,6 +22,17 @@
   <br></br>
   🔍 I'm open to roles such as QA Tester, Full Stack Developer (PHP/Java), or Technical Support.
 </p>
+
+<p>
+<h4>🧰 Tech Stack</h4>
+  
+- **Languages**: PHP · JavaScript · Java · SQL · Python (basic)
+- **Testing / QA**: Postman · Git · Learning Cypress and Selenium
+- **Cybersecurity**: OWASP Top 10 · Burp Suite · Nmap · Wireshark · Splunk · tcpdump · Kali Linux
+- **CVersion Control**: Git · GitHub
+- **Systems & Tools**: Linux · Windows · Notion · Trello · Figma · Draw.io
+</p>
+
 <p align="left">   
 
   - 🌱 Manejo lenguajes **HTML5, CSS3, JS, REACT, NODE JS, PHP and LARAVEL**. 
