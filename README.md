@@ -1,17 +1,19 @@
 <img src="./asset/github-header-sjuniperus.png">
 
 
-<h2 align="left">👋 ¡Hola! | Hello there!</h2>
-<p align="left">
+<h2 align="left">👋 ¡Hola!</h2>
+<p>
   🎯 Soy un profesional IT con formación en desarrollo full stack (PHP, JavaScript), ciberseguridad web y control de calidad de software. 
+  <br></br>
+  🔍 Busco oportunidades como QA Tester, Desarrollador Full Stack PHP/Java o Soporte Técnico.
 </p>
+<h2 align="left">👋 Hello there!</h2>
 <p>
   🎯 I'm an IT professional with training in full stack development (PHP, JavaScript), web cybersecurity, and software quality assurance.
-</p>
-<p align="left"> 
-  🔍 Busco oportunidades como QA Tester, Desarrollador Full Stack PHP/Java o Soporte Técnico.
   <br></br>
   🔍 I'm open to roles such as QA Tester, Full Stack Developer (PHP/Java), or Technical Support.
+</p>
+<p align="left">   
 
   - 🌱 Manejo lenguajes **HTML5, CSS3, JS, REACT, NODE JS, PHP and LARAVEL**. 
   <br></br>
