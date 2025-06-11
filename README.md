@@ -18,9 +18,11 @@
 
 <h4>🚀 Actualmente </h4>
 <p>
+  
 - 📚 Cursando FP Desarrollo de Aplicaciones Multiplataforma
 - ✍️ Iniciandome en automatización de pruebas (Selenium, Cypress)  
-- 🔧 Subiendo proyectos a GitHub  
+- 🔧 Subiendo proyectos a GitHub
+
 </p>
 
 <h2>📫 Contacto</h2>
