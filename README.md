@@ -42,6 +42,7 @@
 </p>
 
 <p>
+  
 <h4>🧰 Tech Stack</h4>
   
 - **Languages**: PHP · JavaScript · Java · SQL · Python (basic)
@@ -51,19 +52,14 @@
 - **Systems & Tools**: Linux · macOS · Windows · Docker · Notion · Trello · Figma · Draw.io· Visual Studio Code · NetBeans
 </p>
 
-<h4>🚀 Actualmente | Currently</h4>
-<p>- ✍️ Aprendiendo automatización de pruebas (Selenium, Cypress)  
-  Learning test automation (Selenium, Cypress)
-- 🔧 Subiendo proyectos y scripts a GitHub  
-  Uploading projects and scripts to GitHub
-- 📚 Formándome de forma continua en QA, soporte técnico y desarrollo backend  
-  Continuously learning QA, tech support, and backend development
-</p>
+<h4>🚀 Currently</h4>
 
 <p>
+  
 - 📚 Currently studying a Higher Vocational Education Program in Multiplatform Application Development  
 - ✍️ Getting started with test automation (Selenium, Cypress)  
-- 🔧 Uploading projects and scripts to GitHub  
+- 🔧 Uploading projects and scripts to GitHub
+  
 </p>
 
 <h2>📫 Contact</h2>
