@@ -3,7 +3,7 @@
 
 <h2 align="left">👋 ¡Hola!</h2>
 <p>
-  🎯 Soy un profesional IT con formación en Desarrollo Full Stack PHP, Ciberseguridad Web y control de calidad de software. 
+  🎯 Soy una profesional técnica en transición al sector IT, con formación en Desarrollo Full Stack PHP, Ciberseguridad Web y control de calidad de software. 
   <br></br>
   🔍 Busco oportunidades como QA Tester, Desarrollador Full Stack PHP/Java o Soporte Técnico.
 </p>
@@ -35,7 +35,7 @@
 
 <h2 align="left">👋 Hello there!</h2>
 <p>
-  🎯 I'm an IT professional with training in Full Stack Development PHP, Web Cybersecurity, and software quality assurance.
+  🎯 I’m a technical professional transitioning into the IT sector, with training in Full Stack PHP Development, Web Cybersecurity, and Software Quality Assurance.
   <br></br>
   🔍 I'm open to roles such as QA Tester, Full Stack Developer (PHP/Java), or Technical Support.
 </p>
@@ -79,7 +79,7 @@
 
 
 
-<h2 align="center"> Stack </h2>
+<h2> Stack </h2>
 
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
