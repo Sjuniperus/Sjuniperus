@@ -1,4 +1,4 @@
-<img src="./asset/github_header.gif">
+<img src="./asset/github-header-sjuniperus.png">
 
 
 <h1 align="center">Hola a todxs! Soy Sabina</h1>
