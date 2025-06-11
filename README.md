@@ -4,10 +4,12 @@
 <h2 align="left">👋 ¡Hola! | Hello there!</h2>
 <p align="left">
   🎯 Soy un profesional IT con formación en desarrollo full stack (PHP, JavaScript), ciberseguridad web y control de calidad de software. 
+  <br></br>
   🎯 I'm an IT professional with training in full stack development (PHP, JavaScript), web cybersecurity, and software quality assurance.
 </p>
 <p align="left"> 
-  🔍 Busco oportunidades como QA Tester, Desarrollador Full Stack PHP/Java o Soporte Técnico.  
+  🔍 Busco oportunidades como QA Tester, Desarrollador Full Stack PHP/Java o Soporte Técnico.
+  <br></br>
   🔍 I'm open to roles such as QA Tester, Full Stack Developer (PHP/Java), or Technical Support.
 
   - 🌱 Manejo lenguajes **HTML5, CSS3, JS, REACT, NODE JS, PHP and LARAVEL**. 
