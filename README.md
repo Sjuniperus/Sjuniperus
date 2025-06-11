@@ -7,6 +7,20 @@
   <br></br>
   🔍 Busco oportunidades como QA Tester, Desarrollador Full Stack PHP/Java o Soporte Técnico.
 </p>
+<h4>🧰 Stack Técnico | Tech Stack</h4>
+<p>
+- **Lenguajes / Languages**: PHP · JavaScript · Java · SQL · Python (basic)
+- **Testing / QA**: Postman · Git · Learning Cypress and Selenium
+- **Ciberseguridad / Cybersecurity**: OWASP Top 10 · Burp Suite · Nmap · Wireshark · Splunk · tcpdump · Kali Linux
+- **Control de versiones / Version Control**: Git · GitHub
+- **Sistemas y herramientas / Systems & Tools**: Linux · Windows · Notion · Trello · Figma · Draw.io
+</p>
+- **Lenguajes / Languages**: PHP · JavaScript · Java · SQL · Python (basic)
+- **Testing / QA**: Postman · Git · Learning Cypress and Selenium
+- **Ciberseguridad / Cybersecurity**: OWASP Top 10 · Burp Suite · Nmap · Wireshark · Splunk · tcpdump · Kali Linux
+- **Control de versiones / Version Control**: Git · GitHub
+- **Sistemas y herramientas / Systems & Tools**: Linux · Windows · Notion · Trello · Figma · Draw.io
+
 <h2 align="left">👋 Hello there!</h2>
 <p>
   🎯 I'm an IT professional with training in full stack development (PHP, JavaScript), web cybersecurity, and software quality assurance.
