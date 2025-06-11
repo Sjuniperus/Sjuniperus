@@ -16,6 +16,23 @@
 - **Sistemas y herramientas / Systems & Tools**: Linux · Windows · Notion · Trello · Figma · Draw.io
 </p>
 
+<h4>🚀 Actualmente </h4>
+<p>
+- 📚 Cursando FP Desarrollo de Aplicaciones Multiplataforma
+- ✍️ Iniciandome en automatización de pruebas (Selenium, Cypress)  
+- 🔧 Subiendo proyectos a GitHub  
+</p>
+
+<h2>📫 Contacto</h2>
+<p>
+<a href="sabi.perezrimedio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
+<a href="https://www.linkedin.com/in/sabi-p-rimedio" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a> 
+  <br></br>
+  <a href="http://discord.com/users/Sabina#0385" target="blank"><img align="center" src="./asset/discord-icon.svg" alt="Sabina#0385" height="40" width="30" style="background-color:#9ACFF6; filter: brightness(0.8);" />
+</a>&nbsp;
+</p>
+
+
 <h2 align="left">👋 Hello there!</h2>
 <p>
   🎯 I'm an IT professional with training in full stack development (PHP, JavaScript), web cybersecurity, and software quality assurance.
@@ -33,24 +50,31 @@
 - **Systems & Tools**: Linux · Windows · Notion · Trello · Figma · Draw.io
 </p>
 
-<p align="left">   
-
-  - 🌱 Manejo lenguajes **HTML5, CSS3, JS, REACT, NODE JS, PHP and LARAVEL**. 
-  <br></br>
-  - ⚡ Fun fact **curiosidad innata**.
+<h4>🚀 Actualmente | Currently</h4>
+<p>- ✍️ Aprendiendo automatización de pruebas (Selenium, Cypress)  
+  Learning test automation (Selenium, Cypress)
+- 🔧 Subiendo proyectos y scripts a GitHub  
+  Uploading projects and scripts to GitHub
+- 📚 Formándome de forma continua en QA, soporte técnico y desarrollo backend  
+  Continuously learning QA, tech support, and backend development
 </p>
 
+<p>
+- 📚 Currently studying a Higher Vocational Education Program in Multiplatform Application Development  
+- ✍️ Getting started with test automation (Selenium, Cypress)  
+- 🔧 Uploading projects and scripts to GitHub  
+</p>
 
-<br></br>
-  
-<h2 align="center"> Conectamos? </h2>
-<p align="center">
+<h2>📫 Contact</h2>
+<p>
 <a href="sabi.perezrimedio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
 <a href="https://www.linkedin.com/in/sabi-p-rimedio" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a> 
   <br></br>
   <a href="http://discord.com/users/Sabina#0385" target="blank"><img align="center" src="./asset/discord-icon.svg" alt="Sabina#0385" height="40" width="30" style="background-color:#9ACFF6; filter: brightness(0.8);" />
 </a>&nbsp;
 </p>
+
+  
 
 
 
