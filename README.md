@@ -99,22 +99,27 @@
     <img src="./asset/icons8-php.svg" alt="php" width="40" height="40"/> </a> 
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
     <img src="./asset/laravel_icon_naranja.png" alt="laravel" width="40" height="40"/></a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="./asset/icons8-linux.gif" alt="linux" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="./asset/sql.png" alt="mysql" width="40" height="40"/> </a> 
      </p>
 
  <h2> Tools </h2>
  <p>
- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="./asset/icons8-linux.gif" alt="linux" width="40" height="40"/> </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
    <img src="./asset/icons8-docker.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="./asset/icons8-figma.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="./asset/icons8-git.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
-    <img src="./asset/icons8-nginx.svg" alt="nginx" width="40" height="40"/> </a>  
+    <img src="./asset/icons8-nginx.svg" alt="nginx" width="40" height="40"/> </a>
+  <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer"> 
+    <img src="./asset/icons8-virtualbox.svg" alt="virtualbox" width="40" height="40"/> </a>
+  <a href="https://netbeans.apache.org/front/main/index.html" target="_blank" rel="noreferrer"> 
+    <img src="./asset/icons8-apache-netbeans.svg" alt="netbeans" width="40" height="40"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+    <img src="./asset/icons8-estudio-visual.svg" alt="vscode" width="40" height="40"/> </a>
+   <br></br>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="./asset/postman.png" alt="postman" width="60" height="40"/> </a>
   <a href="https://suricata.io/" target="_blank" rel="noreferrer"> 
@@ -125,15 +130,19 @@
     <img src="./asset/Burpsuit.png" alt="burp-suite" width="40" height="40"/> </a>
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
     <img src="./asset/icons8-kali-linux-100.png" alt="kali-linux" width="40" height="40"/> </a>
+  <a href="https://www.wireshark.org" target="_blank" rel="noreferrer"> 
+    <img src="./asset/wireshark.png" alt="wireshark" width="40" height="40"/> </a>
+  <a href="https://nmap.org/" target="_blank" rel="noreferrer"> 
+    <img src="./asset/icons8-nmap.svg" alt="nmap" width="40" height="40"/> </a>
+  <br></br>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="./asset/icons8-figma.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://trello.com/" target="_blank" rel="noreferrer"> 
     <img src="./asset/icons8-trello.svg" alt="trello" width="40" height="40"/> </a>
-  <a href="https://www.wireshark.org" target="_blank" rel="noreferrer"> 
-    <img src="./asset/wireshark.png" alt="nmap" width="40" height="40"/> </a>
+  
   
  </p>
-<br></br>
 
----
 <h2> My Github Stats:</h2><img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='35'/>
 
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=Sjuniperus&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
