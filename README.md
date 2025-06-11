@@ -48,7 +48,7 @@
 - **Languages**: PHP · JavaScript · Java · SQL · Python (basic)
 - **Testing / QA**: Postman · Git · Learning Cypress and Selenium
 - **Cybersecurity**: OWASP Top 10 · Burp Suite · Nmap · Wireshark · Splunk · tcpdump · Kali Linux
-- **CVersion Control**: Git · GitHub
+- **Version Control**: Git · GitHub
 - **Systems & Tools**: Linux · macOS · Windows · Docker · Notion · Trello · Figma · Draw.io· Visual Studio Code · NetBeans
 </p>
 
@@ -94,11 +94,9 @@
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
      <img src="./asset/icons8-react.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://www.java.com/es/" target="_blank" rel="noreferrer"> 
-    <img src="./asset/icons8-logotipo-de-java-coffee-cup.gif" alt="php" width="40" height="40"/> </a> 
+    <img src="./asset/icons8-logotipo-de-java-coffee-cup.gif" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="./asset/icons8-php.svg" alt="php" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-      <img src="./asset/postman.png" alt="postman" width="60" height="40"/> </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
     <img src="./asset/laravel_icon_naranja.png" alt="laravel" width="40" height="40"/></a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
@@ -109,10 +107,29 @@
 
  <h2> Tools </h2>
  <p>
- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="./asset/icons8-docker.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>  
+ <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+   <img src="./asset/icons8-docker.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="./asset/icons8-figma.svg" alt="figma" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="./asset/icons8-git.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
+    <img src="./asset/icons8-nginx.svg" alt="nginx" width="40" height="40"/> </a>  
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+    <img src="./asset/postman.png" alt="postman" width="60" height="40"/> </a>
+  <a href="https://suricata.io/" target="_blank" rel="noreferrer"> 
+    <img src="./asset/Suricata.png" alt="suricata" width="60" height="40"/> </a>
+  <a href="https://www.splunk.com/" target="_blank" rel="noreferrer"> 
+    <img src="./asset/Splunk.png" alt="splunk" width="50" height="50"/> </a>
+  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> 
+    <img src="./asset/Burpsuit.png" alt="burp-suite" width="40" height="40"/> </a>
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
+    <img src="./asset/icons8-kali-linux-100.png" alt="kali-linux" width="40" height="40"/> </a>
+  <a href="https://trello.com/" target="_blank" rel="noreferrer"> 
+    <img src="./asset/icons8-trello.svg" alt="trello" width="40" height="40"/> </a>
+  <a href="https://www.wireshark.org" target="_blank" rel="noreferrer"> 
+    <img src="./asset/wireshark.png" alt="nmap" width="40" height="40"/> </a>
+  
  </p>
 <br></br>
 
